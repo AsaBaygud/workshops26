@@ -9,7 +9,8 @@
 
 - [London fire brigade](https://data.london.gov.uk/dataset/animal-rescue-incidents-attended-by-lfb-2ogkn)
 
-- [Veterans in England & Wales, ONS 9.30am release - in theory](https://www.ons.gov.uk/releases/ukarmedforcesveteransenglandandwales2024and2025)
+- [Veterans in England & Wales, Oct 13](https://www.ons.gov.uk/releases/ukarmedforcesveteransenglandandwales2024and2025)
+
 
 ### Tasks (via Pull Requests)
 
