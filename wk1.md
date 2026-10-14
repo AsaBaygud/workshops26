@@ -1,6 +1,6 @@
 ## Week 1 Workshop
 
-Groups: [Yara, Asa], [Sayan, Sethu, Santiago]
+Groups: [Yara, Asa*], [Sayan, Sethu*, Santiago]
 
 1. Use some data to *produce* a curtain raiser ahead of this year's Nobel Peace Prize announcement on Friday. Possible sources are: 
 - [Kaggle dataset on prize winners](https://www.kaggle.com/datasets/ahmeduzaki/nobel-prize-winners-dataset-1901-2025)

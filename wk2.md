@@ -14,12 +14,17 @@
 
 ### Tasks (via Pull Requests)
 
-- For the London fire brigade data, write two top lines in this .md file.
+- For the London fire brigade data, write two top lines.
 - Also suggest a list of output / implementation / apps we could produce with this data.
 
 - For the Veterans dataset, evaluate the date and suggest some possible newslines.
 
 
+**Coverage (animals)**
+[More pets being abandoned in England as food and vet bills soar, say charities. 2025](https://www.theguardian.com/world/2025/nov/02/firefighters-charities-animal-rescue-callouts-england)
 
+[London cat rescues have cost more than one million pounds since 2023. 2025](https://www.swlondoner.co.uk/news/01122025-london-cat-rescues-have-cost-more-than-one-million-pounds-since-2023)
+
+[Firefighters spend record amount of money rescuing cats in wake of pandemic pets boom. 2024](https://www.telegraph.co.uk/news/2024/12/29/firefighters-spend-record-amount-money-rescuing-cats/)
 
 
