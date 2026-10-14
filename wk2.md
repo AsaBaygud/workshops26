@@ -1,9 +1,12 @@
 ## Week 2 Workshop
 
-### Groups 
+### Group A [Sayan, Yara]
 
-- A: [Sayan, Yara]
-- B: [Sethu, Asa, Santiago]
+You can edit this line.
+
+### Group B [Sethu, Asa, Santiago]
+
+You can edit this line.
 
 ### Data (old, and new)
 
@@ -21,6 +24,7 @@
 
 
 **Coverage (animals)**
+
 [More pets being abandoned in England as food and vet bills soar, say charities. 2025](https://www.theguardian.com/world/2025/nov/02/firefighters-charities-animal-rescue-callouts-england)
 
 [London cat rescues have cost more than one million pounds since 2023. 2025](https://www.swlondoner.co.uk/news/01122025-london-cat-rescues-have-cost-more-than-one-million-pounds-since-2023)
