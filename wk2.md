@@ -12,7 +12,7 @@
 - [Veterans in England & Wales, Oct 13](https://www.ons.gov.uk/releases/ukarmedforcesveteransenglandandwales2024and2025)
 
 
-### Tasks (via Pull Requests)
+### Tasks (via Pull Requests)
 
 - For the London fire brigade data, write two top lines in this .md file.
 - Also suggest a list of output / implementation / apps we could produce with this data.
