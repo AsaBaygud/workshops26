@@ -2,11 +2,11 @@
 
 ### Group A [Sayan, Yara]
 
-You can edit this line.
+https://docs.google.com/document/d/1FrpNOiqr3FeftvWh2LEalh_6neBYAqugzEDPXDDoIOA/edit?usp=sharing
 
 ### Group B [Sethu, Asa, Santiago]
 
-You can edit this line.
+https://docs.google.com/document/d/1E96A2s1V1NTDT15mymjYWSEceC6h_jRr5jRTBoH8J0E/edit?tab=t.0
 
 ### Data (old, and new)
 
