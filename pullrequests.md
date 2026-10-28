@@ -1,4 +1,6 @@
-# How to suggest a change to the contents of a Github repository via a Pull Request | Step-by-step from Claude, reviewed by us
+# Suggest a change to a Github repository via a Pull Request 
+
+> Step-by-step from Claude, reviewed by us
 
 A pull request is made by one person, so each week *one* team member should make it.
 
