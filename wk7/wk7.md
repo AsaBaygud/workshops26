@@ -6,6 +6,7 @@
 - Sethu
 - Santiago
 - Yara
+
 (i.e. work together if you like, or start independently)
 
 The [Register of Members' Financial Interests](https://members.parliament.uk/members/commons/interests/publications?sessionId=40) is a list of money or financial benefits received by Westminster MPs from sources *other* than parliament. These sources include earnings from other work or donations, but also things like trips abroad or tickets.
@@ -19,7 +20,9 @@ For a long time this register has been difficult to interrogate as a single batc
 In a Jupyter notebook read in the JSON file which has been prepared by MySociety.
 
 `import json
+
 with open('rmfi_commons.json') as json_data:
+
     d = json.load(json_data)`
 
 1. Investigate how it's structured and what's in there: it is made up of lists and dictionaries.
