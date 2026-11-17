@@ -8,5 +8,5 @@ A collection of CompJ activities on Wednesday mornings.
 4. UK arms export data, via CAAT.
 5. Mapping house price and rental data, via ONS.
 6. Plotting crime data, via South Wales police.
-7. Register of members' interests (Westminster, Senedd), via MySociety.
+7. Register of members' financial interests (Westminster, Senedd), via MySociety.
 
