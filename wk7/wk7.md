@@ -19,11 +19,10 @@ For a long time this register has been difficult to interrogate as a single batc
 
 In a Jupyter notebook read in the JSON file which has been prepared by MySociety.
 
-`import json
-
+```import json
 with open('rmfi_commons.json') as json_data:
-
-    d = json.load(json_data)`
+    d = json.load(json_data)
+```
 
 1. Investigate how it's structured and what's in there: it is made up of lists and dictionaries.
 
